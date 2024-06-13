@@ -2,7 +2,7 @@
 <img align="center" src="https://github.com/HridimaKajay/Hridimakajay/blob/main/GithubBanner.png" width="800"> </p>
 <h1 align="center">Hi 👋, I'm Hridima K Ajay</h1>
 <h3 align="center">MSc Data Science Student at Christ University</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/b7e84cd7df9d883ebab3618b73506c04d2b867b5249291268930f0ab1f02e2e2/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d32625a496a5047432d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e676966">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpaeg.uz%2F%3Fy%3Ddribbble-by-versastock-ww-647ZqIZ&psig=AOvVaw2D8lL2AiGcMjzIdR0nP86K&ust=1718363622278000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDsyL-52IYDFQAAAAAdAAAAABAJ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridimakajay&label=Profile%20views&color=0e75b6&style=flat" alt="hridimakajay" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://hridimakajay.github.io/Hridimakajayportfolio.github.io/](https://hridimakajay.github.io/Hridimakajayportfolio.github.io/)
