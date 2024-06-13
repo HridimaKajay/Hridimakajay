@@ -2,7 +2,7 @@
 <img align="center" src="https://github.com/HridimaKajay/Hridimakajay/blob/main/GithubBanner.png" width="800"> </p>
 <h1 align="center">Hi 👋, I'm Hridima K Ajay</h1>
 <h3 align="center">MSc Data Science Student at Christ University</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpaeg.uz%2F%3Fy%3Ddribbble-by-versastock-ww-647ZqIZ&psig=AOvVaw2D8lL2AiGcMjzIdR0nP86K&ust=1718363622278000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDsyL-52IYDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridimakajay&label=Profile%20views&color=0e75b6&style=flat" alt="hridimakajay" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://hridimakajay.github.io/Hridimakajayportfolio.github.io/](https://hridimakajay.github.io/Hridimakajayportfolio.github.io/)
