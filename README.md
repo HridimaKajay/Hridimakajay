@@ -5,6 +5,8 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridimakajay&label=Profile%20views&color=0e75b6&style=flat" alt="hridimakajay" /> </p>
 
+- 💡 Worked with **Generative AI, Machine Learning, Deep Learning, Natural Language Processing** 
+
 - 👨‍💻 All of my projects are available at [https://hridimakajay.github.io/Hridimakajayportfolio.github.io/](https://hridimakajay.github.io/Hridimakajayportfolio.github.io/)
 
 - 📫 How to reach me **hridimakajay@gmail.com**
