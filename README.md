@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9dfadb8b-2de6-44c5-b584-765eeebb4c93)<p> 
+
 <img align="center" src="https://github.com/HridimaKajay/Hridimakajay/blob/main/Banner.png" width="800"> </p>
 <h1 align="center">Hi 👋, I'm Hridima K Ajay</h1>
 <h3 align="center">MSc Data Science Graduate from Christ University</h3>
