@@ -7,7 +7,7 @@
 
 - 💡 Worked with **Generative AI, Machine Learning, Deep Learning, Natural Language Processing, Advanced Data Analytics** 
 
-- 👨‍💻 All of my projects are available at [https://hridimakajay.github.io/Hridimakajayportfolio.github.io/](https://hridimakajay.github.io/Hridimakajayportfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://hridima-portfolio-2026.vercel.app/](https://hridima-portfolio-2026.vercel.app/)
 
 - 📫 How to reach me **hridimakajay@gmail.com**
 
