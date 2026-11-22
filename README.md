@@ -1,7 +1,7 @@
 
 <img align="center" src="https://github.com/HridimaKajay/Hridimakajay/blob/main/Banner.png" width="800"> </p>
 <h1 align="center">Hi 👋, I'm Hridima K Ajay</h1>
-<h3 align="center">Associate Data Analyst: Loyalytics AI | MSc Data Science Graduate: Christ University</h3>
+<h3 align="center">AI Developer: MSI Services | MSc Data Science Graduate | PhD Research Scholar : Christ University</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridimakajay&label=Profile%20views&color=0e75b6&style=flat" alt="hridimakajay" /> </p>
 
